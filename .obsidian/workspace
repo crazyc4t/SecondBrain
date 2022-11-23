@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "f03f0880792606cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a461720ed66e00be",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Certifications/CCNA/Day 4.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4da77bc2dd73f5a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1965f054ee5f9778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe576c79e273743c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebe53fff762fc64e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f792e3a5aaae261",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d409d0ede7422e10",
+    "type": "split",
+    "children": [
+      {
+        "id": "36c4813fddecf839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b8fe8040f04ff51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Certifications/CCNA/Day 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "524eee59c9d00e12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Certifications/CCNA/Day 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "852357aea58a8e22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "837e25a73cfff3c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Certifications/CCNA/Day 4.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a461720ed66e00be",
+  "lastOpenFiles": [
+    "Programming/Go/Complete Developer's Guide.md",
+    "Certifications/CCNA/Day 4.md",
+    "Certifications/CCNA/Day 3.md",
+    "Certifications/CCNA/Day 2.md",
+    "Certifications/CCNA/Day 1.md",
+    "Certifications/CCNA/Day 1 Slides - Network Devices 1.pdf",
+    "Day 1 Slides - Network Devices.pdf",
+    "Home.md",
+    "Certifications/CCNA/Home.md",
+    "Books/Permanent Record.md"
+  ]
+}
