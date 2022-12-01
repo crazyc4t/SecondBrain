@@ -1,0 +1,20 @@
+- Greet
+- Requirements
+	-  Sd card
+	- Nintendo switch
+	- sd card reader
+	- jig
+	- cable
+- Checking if the switch is patched https://ismyswitchpatched.com/
+- Downloading SD setup https://www.sdsetup.com/
+- NS-USBloader inject Hekate
+-  Hekate > tools > backup emmc > emmc boot0 & boot1
+-  backup emmc raw gpp
+- without turning the console off, remove sd card and move the backups
+- after backup, remove backup from sd card
+- insert sd card
+- tools > partition sd card > emummc raw full partition (29 gb if 64)
+- home > emummc > create emummc > sd partition > part 1 (verify emummc is enabled)
+- after that boot into atmosphere
+- then install deepsea.
+- profit.

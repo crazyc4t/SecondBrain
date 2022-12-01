@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f789e1100f5875c7",
+        "id": "5eaf4d64e4648402",
         "type": "tabs",
         "children": [
           {
-            "id": "c2691b16f1af1aee",
+            "id": "4f7649a120bb0a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Mr Robot CTF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67655fac1081f2f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anita's roadmap.md",
+                "file": "Telconet/Lessons learned on Cisco attack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 210.5,
+    "collapsed": true
   },
   "right": {
     "id": "d409d0ede7422e10",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anita's roadmap.md",
+                "file": "Telconet/Lessons learned on Cisco attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anita's roadmap.md",
+                "file": "Telconet/Lessons learned on Cisco attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anita's roadmap.md"
+                "file": "Telconet/Lessons learned on Cisco attack.md"
               }
+            }
+          },
+          {
+            "id": "1034b2ee61b25606",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -150,17 +146,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "67655fac1081f2f3",
+  "active": "4f7649a120bb0a14",
   "lastOpenFiles": [
+    "Telconet/Bitácoras/December 1st 2022.md",
+    "Telconet/Lessons learned on Cisco attack.md",
+    "Certifications/AWS CCP/Exam Guide.md",
+    "Videos/Switch Homebrewing.md",
+    "Certifications/AWS CCP/What, How and Why?.md",
     "Hacking/Mr Robot CTF.md",
-    "images/mrrobot.png.md",
-    "Attachments/mrrobot.png",
-    "Blog/Setting up OpenSuse Tumbleweed for gaming.md",
-    "Programming/Go/Complete Developer's Guide.md",
-    "Hacking/RootMe CTF.md",
-    "Hacking/Boss of the SOC v3.md",
-    "Books/Permanent Record.md",
-    "2022-11-21.md",
-    "Hacking/Further Nmap.md"
+    "Hacking/Pickle Rick CTF.md",
+    "Attachments/Recording 20221127234907.webm",
+    "Attachments/mrrobot4.png",
+    "Blog/Setting up OpenSuse Tumbleweed for gaming.md"
   ]
 }
